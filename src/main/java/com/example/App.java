@@ -20,7 +20,7 @@ public class App
         c = a+b; 
         System.out.println("Sum is:");
         System.out.println(c);
-
+        sc.close();
 
     }
 }
